@@ -1,1 +1,1 @@
-<img src="assets/IMG_20260808_011042_2.jpg" width="100%" />
+<img src="assets/file-center.jpg" width="100%" />
